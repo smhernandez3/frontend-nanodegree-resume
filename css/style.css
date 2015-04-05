@@ -47,6 +47,12 @@ h2, h3, h4, h5 {
   padding-left: 5%;
   padding-right: 5%;
 }
+.no_pad{
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 30px;
+  padding-bottom: 0;
+}
 
 
 .date-text {
